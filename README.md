@@ -1,1 +1,3 @@
-# Aplicacion-de-patrones-de-dise-o-estructurales
+Aplicacion-de-patrones-de-dise-o-estructurales
+
+El emprendimiento de ventas de manis McNuts desea permitir a sus clientes comprar sus productos mediante un sistema de ventas que genere una factura apartir de dos modelos de entidades muy distintas como los clientes y los manis, asi mismo desea poder agregar un stock limitado de sabores de mani automaticamente sin importar que sean modelos distintos para cada cliente de manera que no se genere una falta en stock y se pueda mejorar las ventas de su producto, para el poder asociar dos modelos que son distintos para lograr un fin en comun se uso el patron de diseño estructural de adapter de manera que apartir de clientes y mani se pueda generar una factura y finalmente para poder manejar un stock especifico para cada cliente de manis impidiendo el desabastecimiento de otros se uso el diseño estructural facade
