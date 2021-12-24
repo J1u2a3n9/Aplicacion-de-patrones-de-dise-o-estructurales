@@ -1,3 +1,7 @@
-Aplicacion-de-patrones-de-dise-o-estructurales
+MCNuts API 
 
-El emprendimiento de ventas de manis McNuts desea permitir a sus clientes comprar sus productos mediante un sistema de ventas que genere una factura apartir de dos modelos de entidades muy distintas como los clientes y los manis, asi mismo desea poder agregar un stock limitado de sabores de mani automaticamente sin importar que sean modelos distintos para cada cliente para que no exista una falta en stock y se pueda mejorar las ventas de su producto, para poder asociar dos modelos que son distintos y lograr un fin en comun se uso el patron de diseño estructural de adapter generando que de clientes y mani se pueda generar una factura y finalmente para poder manejar un stock especifico para cada cliente de manis impidiendo el desabastecimiento de otros se uso el diseño estructural facade
+LANGUAGE
+* C#
+
+DESCRIPTION
+The peanut sales company McNuts wants to allow its customers to buy its products through a sales system that generates an invoice from two very different models of entities such as customers and peanuts, also wants to be able to add a limited stock of peanut flavors automatically regardless of whether they are different models for each customer so there is no lack in stock and can improve sales of their product, to be able to associate two models that are different and achieve a common goal we used the structural design pattern of adapter generating that customers and peanuts can generate an invoice and finally to be able to manage a specific stock for each customer of peanuts preventing the shortage of others we used the structural design facade.
